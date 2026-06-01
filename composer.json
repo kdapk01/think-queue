@@ -1,6 +1,6 @@
 {
-    "name": "topthink/think-queue",
-    "description": "The ThinkPHP6 Queue Package",
+    "name": "kdapk01/think-queue",
+    "description": "The ThinkPHP Queue Package",
     "authors": [
         {
             "name": "yunwuxin",
