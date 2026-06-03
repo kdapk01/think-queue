@@ -2,7 +2,7 @@
 
 ## 安装
 
-> composer require topthink/think-queue
+> composer require kdapk01/think-queue
 
 ## 配置
 
