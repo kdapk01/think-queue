@@ -112,3 +112,6 @@ class Job2{
 两种，具体的可选参数可以输入命令加 `--help` 查看
 
 > 可配合supervisor使用，保证进程常驻
+
+## 运行扩展
+> `pcntl` [pcntl_signal; pcntl_alarm;]
